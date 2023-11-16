@@ -1,0 +1,116 @@
+body{
+    background-color: bisque;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1.name{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 46px;
+    background-color: rgb(189, 172, 146);
+    color: aliceblue;
+}
+
+a.links{
+    text-decoration: none;
+    background-color: rgb(162, 212, 212);
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aquamarine;
+}
+
+.aboutlink{
+    text-decoration: none;
+    background-color: rgb(91, 107, 120);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+main{
+    width: 60%;
+    background-color: rgb(164, 138, 107);
+    float: left;
+    color:beige
+}
+
+main h1{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+main p{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+aside{
+    width: 40%;
+    background-color: rgb(162, 212, 212);
+    float: right;
+}
+
+aside h1{
+    padding-left: 30px;
+    font-weight: bold;
+    font-size: 2em;
+    color:rgb(102, 152, 135);
+}
+
+aside p{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 30px;
+    padding-right: 15px;
+}
+
+nav{
+    background-color: rgb(162, 212, 212);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+footer{
+    clear:both;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(189, 172, 146);
+}
+
+footer h4{
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: rgb(0, 0, 0);
+}
+
+footer a{
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 10px;
+    color: rgb(0, 0, 0);    
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
